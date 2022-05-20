@@ -15,3 +15,6 @@ Some text here too. YAY
 Do we need one
 
 ## How To Contribute
+
+Copyright 
+ADDDDDDD
